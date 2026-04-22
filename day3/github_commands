@@ -1,0 +1,10 @@
+#github commands
+
+git init
+git add
+git commit-m "Intial commit"
+git remote add origin <repo-url>
+git branch -M main
+git push -u origin main
+git config --global user.name "Samina Anna Sajin"
+git config --global user.email "saminaannasajin2006@gmail.com"
